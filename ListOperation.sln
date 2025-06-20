@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListOperation", "ListOperation\ListOperation.csproj", "{89557227-3E19-4C3A-ABAE-38DCDCA8C891}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89557227-3E19-4C3A-ABAE-38DCDCA8C891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89557227-3E19-4C3A-ABAE-38DCDCA8C891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89557227-3E19-4C3A-ABAE-38DCDCA8C891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89557227-3E19-4C3A-ABAE-38DCDCA8C891}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B61676C5-E862-418D-974E-2D5F2BE38A4F}
+	EndGlobalSection
+EndGlobal
